@@ -1,0 +1,24 @@
+# ninja log v7
+8	34	8072934770006110	D:/Game-OOP/out/build/x64-Debug/CMakeFiles/cmake.verify_globs	8378a1b1fdb2560f
+153	1732	8072934771456000	CMakeFiles/GameOOP.dir/src/systems/SaveManager.cpp.obj	cbc7fd0d2db0ab90
+46	1900	8072934770352503	CMakeFiles/GameOOP.dir/src/entities/BossEnemy.cpp.obj	9cd9cb72ae9c034d
+70	1909	8072934770632529	CMakeFiles/GameOOP.dir/src/entities/Mage.cpp.obj	11db8ddbf9a676cb
+86	1931	8072934770768867	CMakeFiles/GameOOP.dir/src/entities/Warrior.cpp.obj	d86bc9cd8f2e52d6
+148	1937	8072934771399626	CMakeFiles/GameOOP.dir/src/systems/Paths.cpp.obj	7b1b2a06489cc3df
+120	1943	8072934771096685	CMakeFiles/GameOOP.dir/src/scenes/PauseScene.cpp.obj	5613b4a731bc9c9a
+65	1951	8072934770572451	CMakeFiles/GameOOP.dir/src/entities/Enemy.cpp.obj	751e005425110682
+130	1973	8072934771214908	CMakeFiles/GameOOP.dir/src/systems/Animator.cpp.obj	4e32424ef46897e
+142	1995	8072934771317711	CMakeFiles/GameOOP.dir/src/systems/CombatManager.cpp.obj	323e8685183a0693
+136	2000	8072934771277649	CMakeFiles/GameOOP.dir/src/systems/CharacterFactory.cpp.obj	e3a8e877e54c0098
+40	2005	8072934770323668	CMakeFiles/GameOOP.dir/src/entities/Archer.cpp.obj	cb26e7fd902c2b4e
+94	2016	8072934770852337	CMakeFiles/GameOOP.dir/src/main.cpp.obj	c6ccf1da95003340
+78	2021	8072934770692595	CMakeFiles/GameOOP.dir/src/entities/Tank.cpp.obj	f51e5864e05ad015
+125	2047	8072934771171039	CMakeFiles/GameOOP.dir/src/scenes/TowerMapScene.cpp.obj	8a82568f2ddd21a9
+114	2075	8072934771049991	CMakeFiles/GameOOP.dir/src/scenes/MainMenuScene.cpp.obj	c274dedf8d34c823
+158	2089	8072934771506105	CMakeFiles/GameOOP.dir/src/systems/TextureManager.cpp.obj	929da24de910e28b
+103	2094	8072934770948917	CMakeFiles/GameOOP.dir/src/scenes/CharacterSelectScene.cpp.obj	cd97e37350951b9e
+55	2116	8072934770460349	CMakeFiles/GameOOP.dir/src/entities/Character.cpp.obj	b9c665b5047674e3
+36	2120	8072934770283603	CMakeFiles/GameOOP.dir/src/Game.cpp.obj	ae66c6ecc43b449a
+108	2187	8072934771012529	CMakeFiles/GameOOP.dir/src/scenes/CombatScene.cpp.obj	472d5816f6bdb8a0
+2187	5942	8072934791792292	GameOOP.exe	73461d648d56bf49
+61	99	8072934853830927	D:/Game-OOP/out/build/x64-Debug/CMakeFiles/cmake.verify_globs	8378a1b1fdb2560f

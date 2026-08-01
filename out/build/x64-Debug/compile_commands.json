@@ -1,0 +1,122 @@
+[
+{
+  "directory": "D:/Game-OOP/out/build/x64-Debug",
+  "command": "C:\\PROGRA~1\\MICROS~3\\18\\COMMUN~1\\VC\\Tools\\MSVC\\1451~1.362\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -ID:\\Game-OOP\\src -external:ID:\\Game-OOP\\SFML-3.1.0\\include -external:W0 /DWIN32 /D_WINDOWS /EHsc /Zi /Ob0 /Od /RTC1 -std:c++17 -MDd /FoCMakeFiles\\GameOOP.dir\\src\\Game.cpp.obj /FdCMakeFiles\\GameOOP.dir\\ /FS -c D:\\Game-OOP\\src\\Game.cpp",
+  "file": "D:/Game-OOP/src/Game.cpp",
+  "output": "D:/Game-OOP/out/build/x64-Debug/CMakeFiles/GameOOP.dir/src/Game.cpp.obj"
+},
+{
+  "directory": "D:/Game-OOP/out/build/x64-Debug",
+  "command": "C:\\PROGRA~1\\MICROS~3\\18\\COMMUN~1\\VC\\Tools\\MSVC\\1451~1.362\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -ID:\\Game-OOP\\src -external:ID:\\Game-OOP\\SFML-3.1.0\\include -external:W0 /DWIN32 /D_WINDOWS /EHsc /Zi /Ob0 /Od /RTC1 -std:c++17 -MDd /FoCMakeFiles\\GameOOP.dir\\src\\entities\\Archer.cpp.obj /FdCMakeFiles\\GameOOP.dir\\ /FS -c D:\\Game-OOP\\src\\entities\\Archer.cpp",
+  "file": "D:/Game-OOP/src/entities/Archer.cpp",
+  "output": "D:/Game-OOP/out/build/x64-Debug/CMakeFiles/GameOOP.dir/src/entities/Archer.cpp.obj"
+},
+{
+  "directory": "D:/Game-OOP/out/build/x64-Debug",
+  "command": "C:\\PROGRA~1\\MICROS~3\\18\\COMMUN~1\\VC\\Tools\\MSVC\\1451~1.362\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -ID:\\Game-OOP\\src -external:ID:\\Game-OOP\\SFML-3.1.0\\include -external:W0 /DWIN32 /D_WINDOWS /EHsc /Zi /Ob0 /Od /RTC1 -std:c++17 -MDd /FoCMakeFiles\\GameOOP.dir\\src\\entities\\BossEnemy.cpp.obj /FdCMakeFiles\\GameOOP.dir\\ /FS -c D:\\Game-OOP\\src\\entities\\BossEnemy.cpp",
+  "file": "D:/Game-OOP/src/entities/BossEnemy.cpp",
+  "output": "D:/Game-OOP/out/build/x64-Debug/CMakeFiles/GameOOP.dir/src/entities/BossEnemy.cpp.obj"
+},
+{
+  "directory": "D:/Game-OOP/out/build/x64-Debug",
+  "command": "C:\\PROGRA~1\\MICROS~3\\18\\COMMUN~1\\VC\\Tools\\MSVC\\1451~1.362\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -ID:\\Game-OOP\\src -external:ID:\\Game-OOP\\SFML-3.1.0\\include -external:W0 /DWIN32 /D_WINDOWS /EHsc /Zi /Ob0 /Od /RTC1 -std:c++17 -MDd /FoCMakeFiles\\GameOOP.dir\\src\\entities\\Character.cpp.obj /FdCMakeFiles\\GameOOP.dir\\ /FS -c D:\\Game-OOP\\src\\entities\\Character.cpp",
+  "file": "D:/Game-OOP/src/entities/Character.cpp",
+  "output": "D:/Game-OOP/out/build/x64-Debug/CMakeFiles/GameOOP.dir/src/entities/Character.cpp.obj"
+},
+{
+  "directory": "D:/Game-OOP/out/build/x64-Debug",
+  "command": "C:\\PROGRA~1\\MICROS~3\\18\\COMMUN~1\\VC\\Tools\\MSVC\\1451~1.362\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -ID:\\Game-OOP\\src -external:ID:\\Game-OOP\\SFML-3.1.0\\include -external:W0 /DWIN32 /D_WINDOWS /EHsc /Zi /Ob0 /Od /RTC1 -std:c++17 -MDd /FoCMakeFiles\\GameOOP.dir\\src\\entities\\Enemy.cpp.obj /FdCMakeFiles\\GameOOP.dir\\ /FS -c D:\\Game-OOP\\src\\entities\\Enemy.cpp",
+  "file": "D:/Game-OOP/src/entities/Enemy.cpp",
+  "output": "D:/Game-OOP/out/build/x64-Debug/CMakeFiles/GameOOP.dir/src/entities/Enemy.cpp.obj"
+},
+{
+  "directory": "D:/Game-OOP/out/build/x64-Debug",
+  "command": "C:\\PROGRA~1\\MICROS~3\\18\\COMMUN~1\\VC\\Tools\\MSVC\\1451~1.362\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -ID:\\Game-OOP\\src -external:ID:\\Game-OOP\\SFML-3.1.0\\include -external:W0 /DWIN32 /D_WINDOWS /EHsc /Zi /Ob0 /Od /RTC1 -std:c++17 -MDd /FoCMakeFiles\\GameOOP.dir\\src\\entities\\Mage.cpp.obj /FdCMakeFiles\\GameOOP.dir\\ /FS -c D:\\Game-OOP\\src\\entities\\Mage.cpp",
+  "file": "D:/Game-OOP/src/entities/Mage.cpp",
+  "output": "D:/Game-OOP/out/build/x64-Debug/CMakeFiles/GameOOP.dir/src/entities/Mage.cpp.obj"
+},
+{
+  "directory": "D:/Game-OOP/out/build/x64-Debug",
+  "command": "C:\\PROGRA~1\\MICROS~3\\18\\COMMUN~1\\VC\\Tools\\MSVC\\1451~1.362\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -ID:\\Game-OOP\\src -external:ID:\\Game-OOP\\SFML-3.1.0\\include -external:W0 /DWIN32 /D_WINDOWS /EHsc /Zi /Ob0 /Od /RTC1 -std:c++17 -MDd /FoCMakeFiles\\GameOOP.dir\\src\\entities\\Tank.cpp.obj /FdCMakeFiles\\GameOOP.dir\\ /FS -c D:\\Game-OOP\\src\\entities\\Tank.cpp",
+  "file": "D:/Game-OOP/src/entities/Tank.cpp",
+  "output": "D:/Game-OOP/out/build/x64-Debug/CMakeFiles/GameOOP.dir/src/entities/Tank.cpp.obj"
+},
+{
+  "directory": "D:/Game-OOP/out/build/x64-Debug",
+  "command": "C:\\PROGRA~1\\MICROS~3\\18\\COMMUN~1\\VC\\Tools\\MSVC\\1451~1.362\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -ID:\\Game-OOP\\src -external:ID:\\Game-OOP\\SFML-3.1.0\\include -external:W0 /DWIN32 /D_WINDOWS /EHsc /Zi /Ob0 /Od /RTC1 -std:c++17 -MDd /FoCMakeFiles\\GameOOP.dir\\src\\entities\\Warrior.cpp.obj /FdCMakeFiles\\GameOOP.dir\\ /FS -c D:\\Game-OOP\\src\\entities\\Warrior.cpp",
+  "file": "D:/Game-OOP/src/entities/Warrior.cpp",
+  "output": "D:/Game-OOP/out/build/x64-Debug/CMakeFiles/GameOOP.dir/src/entities/Warrior.cpp.obj"
+},
+{
+  "directory": "D:/Game-OOP/out/build/x64-Debug",
+  "command": "C:\\PROGRA~1\\MICROS~3\\18\\COMMUN~1\\VC\\Tools\\MSVC\\1451~1.362\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -ID:\\Game-OOP\\src -external:ID:\\Game-OOP\\SFML-3.1.0\\include -external:W0 /DWIN32 /D_WINDOWS /EHsc /Zi /Ob0 /Od /RTC1 -std:c++17 -MDd /FoCMakeFiles\\GameOOP.dir\\src\\main.cpp.obj /FdCMakeFiles\\GameOOP.dir\\ /FS -c D:\\Game-OOP\\src\\main.cpp",
+  "file": "D:/Game-OOP/src/main.cpp",
+  "output": "D:/Game-OOP/out/build/x64-Debug/CMakeFiles/GameOOP.dir/src/main.cpp.obj"
+},
+{
+  "directory": "D:/Game-OOP/out/build/x64-Debug",
+  "command": "C:\\PROGRA~1\\MICROS~3\\18\\COMMUN~1\\VC\\Tools\\MSVC\\1451~1.362\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -ID:\\Game-OOP\\src -external:ID:\\Game-OOP\\SFML-3.1.0\\include -external:W0 /DWIN32 /D_WINDOWS /EHsc /Zi /Ob0 /Od /RTC1 -std:c++17 -MDd /FoCMakeFiles\\GameOOP.dir\\src\\scenes\\CharacterSelectScene.cpp.obj /FdCMakeFiles\\GameOOP.dir\\ /FS -c D:\\Game-OOP\\src\\scenes\\CharacterSelectScene.cpp",
+  "file": "D:/Game-OOP/src/scenes/CharacterSelectScene.cpp",
+  "output": "D:/Game-OOP/out/build/x64-Debug/CMakeFiles/GameOOP.dir/src/scenes/CharacterSelectScene.cpp.obj"
+},
+{
+  "directory": "D:/Game-OOP/out/build/x64-Debug",
+  "command": "C:\\PROGRA~1\\MICROS~3\\18\\COMMUN~1\\VC\\Tools\\MSVC\\1451~1.362\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -ID:\\Game-OOP\\src -external:ID:\\Game-OOP\\SFML-3.1.0\\include -external:W0 /DWIN32 /D_WINDOWS /EHsc /Zi /Ob0 /Od /RTC1 -std:c++17 -MDd /FoCMakeFiles\\GameOOP.dir\\src\\scenes\\CombatScene.cpp.obj /FdCMakeFiles\\GameOOP.dir\\ /FS -c D:\\Game-OOP\\src\\scenes\\CombatScene.cpp",
+  "file": "D:/Game-OOP/src/scenes/CombatScene.cpp",
+  "output": "D:/Game-OOP/out/build/x64-Debug/CMakeFiles/GameOOP.dir/src/scenes/CombatScene.cpp.obj"
+},
+{
+  "directory": "D:/Game-OOP/out/build/x64-Debug",
+  "command": "C:\\PROGRA~1\\MICROS~3\\18\\COMMUN~1\\VC\\Tools\\MSVC\\1451~1.362\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -ID:\\Game-OOP\\src -external:ID:\\Game-OOP\\SFML-3.1.0\\include -external:W0 /DWIN32 /D_WINDOWS /EHsc /Zi /Ob0 /Od /RTC1 -std:c++17 -MDd /FoCMakeFiles\\GameOOP.dir\\src\\scenes\\MainMenuScene.cpp.obj /FdCMakeFiles\\GameOOP.dir\\ /FS -c D:\\Game-OOP\\src\\scenes\\MainMenuScene.cpp",
+  "file": "D:/Game-OOP/src/scenes/MainMenuScene.cpp",
+  "output": "D:/Game-OOP/out/build/x64-Debug/CMakeFiles/GameOOP.dir/src/scenes/MainMenuScene.cpp.obj"
+},
+{
+  "directory": "D:/Game-OOP/out/build/x64-Debug",
+  "command": "C:\\PROGRA~1\\MICROS~3\\18\\COMMUN~1\\VC\\Tools\\MSVC\\1451~1.362\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -ID:\\Game-OOP\\src -external:ID:\\Game-OOP\\SFML-3.1.0\\include -external:W0 /DWIN32 /D_WINDOWS /EHsc /Zi /Ob0 /Od /RTC1 -std:c++17 -MDd /FoCMakeFiles\\GameOOP.dir\\src\\scenes\\PauseScene.cpp.obj /FdCMakeFiles\\GameOOP.dir\\ /FS -c D:\\Game-OOP\\src\\scenes\\PauseScene.cpp",
+  "file": "D:/Game-OOP/src/scenes/PauseScene.cpp",
+  "output": "D:/Game-OOP/out/build/x64-Debug/CMakeFiles/GameOOP.dir/src/scenes/PauseScene.cpp.obj"
+},
+{
+  "directory": "D:/Game-OOP/out/build/x64-Debug",
+  "command": "C:\\PROGRA~1\\MICROS~3\\18\\COMMUN~1\\VC\\Tools\\MSVC\\1451~1.362\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -ID:\\Game-OOP\\src -external:ID:\\Game-OOP\\SFML-3.1.0\\include -external:W0 /DWIN32 /D_WINDOWS /EHsc /Zi /Ob0 /Od /RTC1 -std:c++17 -MDd /FoCMakeFiles\\GameOOP.dir\\src\\scenes\\TowerMapScene.cpp.obj /FdCMakeFiles\\GameOOP.dir\\ /FS -c D:\\Game-OOP\\src\\scenes\\TowerMapScene.cpp",
+  "file": "D:/Game-OOP/src/scenes/TowerMapScene.cpp",
+  "output": "D:/Game-OOP/out/build/x64-Debug/CMakeFiles/GameOOP.dir/src/scenes/TowerMapScene.cpp.obj"
+},
+{
+  "directory": "D:/Game-OOP/out/build/x64-Debug",
+  "command": "C:\\PROGRA~1\\MICROS~3\\18\\COMMUN~1\\VC\\Tools\\MSVC\\1451~1.362\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -ID:\\Game-OOP\\src -external:ID:\\Game-OOP\\SFML-3.1.0\\include -external:W0 /DWIN32 /D_WINDOWS /EHsc /Zi /Ob0 /Od /RTC1 -std:c++17 -MDd /FoCMakeFiles\\GameOOP.dir\\src\\systems\\Animator.cpp.obj /FdCMakeFiles\\GameOOP.dir\\ /FS -c D:\\Game-OOP\\src\\systems\\Animator.cpp",
+  "file": "D:/Game-OOP/src/systems/Animator.cpp",
+  "output": "D:/Game-OOP/out/build/x64-Debug/CMakeFiles/GameOOP.dir/src/systems/Animator.cpp.obj"
+},
+{
+  "directory": "D:/Game-OOP/out/build/x64-Debug",
+  "command": "C:\\PROGRA~1\\MICROS~3\\18\\COMMUN~1\\VC\\Tools\\MSVC\\1451~1.362\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -ID:\\Game-OOP\\src -external:ID:\\Game-OOP\\SFML-3.1.0\\include -external:W0 /DWIN32 /D_WINDOWS /EHsc /Zi /Ob0 /Od /RTC1 -std:c++17 -MDd /FoCMakeFiles\\GameOOP.dir\\src\\systems\\CharacterFactory.cpp.obj /FdCMakeFiles\\GameOOP.dir\\ /FS -c D:\\Game-OOP\\src\\systems\\CharacterFactory.cpp",
+  "file": "D:/Game-OOP/src/systems/CharacterFactory.cpp",
+  "output": "D:/Game-OOP/out/build/x64-Debug/CMakeFiles/GameOOP.dir/src/systems/CharacterFactory.cpp.obj"
+},
+{
+  "directory": "D:/Game-OOP/out/build/x64-Debug",
+  "command": "C:\\PROGRA~1\\MICROS~3\\18\\COMMUN~1\\VC\\Tools\\MSVC\\1451~1.362\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -ID:\\Game-OOP\\src -external:ID:\\Game-OOP\\SFML-3.1.0\\include -external:W0 /DWIN32 /D_WINDOWS /EHsc /Zi /Ob0 /Od /RTC1 -std:c++17 -MDd /FoCMakeFiles\\GameOOP.dir\\src\\systems\\CombatManager.cpp.obj /FdCMakeFiles\\GameOOP.dir\\ /FS -c D:\\Game-OOP\\src\\systems\\CombatManager.cpp",
+  "file": "D:/Game-OOP/src/systems/CombatManager.cpp",
+  "output": "D:/Game-OOP/out/build/x64-Debug/CMakeFiles/GameOOP.dir/src/systems/CombatManager.cpp.obj"
+},
+{
+  "directory": "D:/Game-OOP/out/build/x64-Debug",
+  "command": "C:\\PROGRA~1\\MICROS~3\\18\\COMMUN~1\\VC\\Tools\\MSVC\\1451~1.362\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -ID:\\Game-OOP\\src -external:ID:\\Game-OOP\\SFML-3.1.0\\include -external:W0 /DWIN32 /D_WINDOWS /EHsc /Zi /Ob0 /Od /RTC1 -std:c++17 -MDd /FoCMakeFiles\\GameOOP.dir\\src\\systems\\Paths.cpp.obj /FdCMakeFiles\\GameOOP.dir\\ /FS -c D:\\Game-OOP\\src\\systems\\Paths.cpp",
+  "file": "D:/Game-OOP/src/systems/Paths.cpp",
+  "output": "D:/Game-OOP/out/build/x64-Debug/CMakeFiles/GameOOP.dir/src/systems/Paths.cpp.obj"
+},
+{
+  "directory": "D:/Game-OOP/out/build/x64-Debug",
+  "command": "C:\\PROGRA~1\\MICROS~3\\18\\COMMUN~1\\VC\\Tools\\MSVC\\1451~1.362\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -ID:\\Game-OOP\\src -external:ID:\\Game-OOP\\SFML-3.1.0\\include -external:W0 /DWIN32 /D_WINDOWS /EHsc /Zi /Ob0 /Od /RTC1 -std:c++17 -MDd /FoCMakeFiles\\GameOOP.dir\\src\\systems\\SaveManager.cpp.obj /FdCMakeFiles\\GameOOP.dir\\ /FS -c D:\\Game-OOP\\src\\systems\\SaveManager.cpp",
+  "file": "D:/Game-OOP/src/systems/SaveManager.cpp",
+  "output": "D:/Game-OOP/out/build/x64-Debug/CMakeFiles/GameOOP.dir/src/systems/SaveManager.cpp.obj"
+},
+{
+  "directory": "D:/Game-OOP/out/build/x64-Debug",
+  "command": "C:\\PROGRA~1\\MICROS~3\\18\\COMMUN~1\\VC\\Tools\\MSVC\\1451~1.362\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -ID:\\Game-OOP\\src -external:ID:\\Game-OOP\\SFML-3.1.0\\include -external:W0 /DWIN32 /D_WINDOWS /EHsc /Zi /Ob0 /Od /RTC1 -std:c++17 -MDd /FoCMakeFiles\\GameOOP.dir\\src\\systems\\TextureManager.cpp.obj /FdCMakeFiles\\GameOOP.dir\\ /FS -c D:\\Game-OOP\\src\\systems\\TextureManager.cpp",
+  "file": "D:/Game-OOP/src/systems/TextureManager.cpp",
+  "output": "D:/Game-OOP/out/build/x64-Debug/CMakeFiles/GameOOP.dir/src/systems/TextureManager.cpp.obj"
+}
+]
