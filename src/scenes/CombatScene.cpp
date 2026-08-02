@@ -17,7 +17,10 @@ CombatScene::CombatScene(Game& game)
       turnIndicator(game.getFont(), "", 20) {
 
     GameSession& session = game.getSession();
-
+    // Cấp tạm 1 nhân vật nếu danh sách trống để chống crash game
+    if (session.chosenCharacters.empty()) {
+        session.chosenCharacters.push_back(CharacterType::Warrior);
+    }
     for (size_t i = 0; i < session.chosenCharacters.size(); ++i) {
         auto character = CharacterFactory::create(session.chosenCharacters[i]);
         character->setCurrentFloor(session.currentFloor);
@@ -114,15 +117,21 @@ void CombatScene::playerAction(int skillIndex) {
         active.basicAttack(*enemy);
         appendLog(active.getName() + " danh thuong " + enemy->getName());
     } else {
-        active.useSkill(skillIndex, *enemy);
+        // Kiem tra xem co du No de tung chieu khong
+        if (!active.useSkill(skillIndex, *enemy)) {
+            appendLog("Khong du No de dung chieu!");
+            return; // Lenh return nay se dung luot cua ban lai, khong cho quai danh
+        }
+        // Neu du No (tra ve true) thi in log tung chieu va tiep tuc
         appendLog(active.getName() + " dung chieu " + std::to_string(skillIndex + 1));
     }
 
     checkBattleEnd();
-    if (battleOver) return;
+    if (battleOver) return; // (Đây là kiểm tra sau khi bạn đánh)
 
     enemyTurnIfAlive();
     checkBattleEnd();
+    if (battleOver) return; // <--- Chỉ thêm DUY NHẤT dòng này (Kiểm tra sau khi quái đánh)
 
     // Che do 2P: luan phien nhan vat dieu khien sau moi luot
     if (players.size() > 1) {
@@ -145,7 +154,7 @@ void CombatScene::updateTurnIndicator() {
 }
 
 void CombatScene::enemyTurnIfAlive() {
-    if (!enemy->isAlive()) return;
+    if (!enemy->isAlive() || players.empty()) return;
     // Quai chon 1 nguoi choi con song de tan cong (uu tien nguoi dang active)
     Character* target = players[activePlayerIndex]->isAlive()
         ? players[activePlayerIndex].get() : nullptr;
